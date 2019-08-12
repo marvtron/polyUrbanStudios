@@ -2163,7 +2163,7 @@ input, select, textarea {
 				}
 
 					#nav ul li a.active span:before {
-						color: #e27689;
+						color: #80aba9;
 					}
 
 /* Footer */
@@ -2242,7 +2242,7 @@ input, select, textarea {
 
 			#main > section.one {
 				background-color: #81918E;
-				background-image: url("https://picsum.photos/1920/768");
+				/* background-image: url("https://picsum.photos/1920/768"); */
 			}
 
 			#main > section.two {
